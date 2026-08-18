@@ -1,0 +1,7 @@
+vendor/mirrors/
+.DS_Store
+node_modules/
+.dsh/
+*.log
+.env
+.env.local
